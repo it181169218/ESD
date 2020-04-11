@@ -6,3 +6,5 @@ Wellcome tothe kitchen
 rice
 dhal
 chicken
+
+Thank you!
